@@ -1,0 +1,3 @@
+hellogood to know you [Key.esc] hi hope this time its working well [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.backspace]  [Key.shift] Ops
+ [Key.esc] heyyy
+ [Key.ctrl_r]  [Key.esc] 
